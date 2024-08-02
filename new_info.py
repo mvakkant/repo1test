@@ -1,0 +1,1 @@
+print("Display different information on the screen.")
